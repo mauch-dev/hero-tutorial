@@ -1,6 +1,6 @@
 # HeroTutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
+The Tour of Heroes tutorial shows you how to set up your local development environment and develop an application using the Angular CLI tool, and provides an introduction to the fundamentals of Angular. [Tour of Heroes app and tutorial](https://angular.io/tutorial).
 
 ## Development server
 
